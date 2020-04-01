@@ -1,0 +1,8 @@
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\obj\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\DAL\obj\Debug\DAL.pdb

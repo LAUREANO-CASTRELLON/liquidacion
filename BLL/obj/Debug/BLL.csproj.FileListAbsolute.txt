@@ -1,0 +1,10 @@
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\obj\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\BLL\obj\Debug\BLL.pdb

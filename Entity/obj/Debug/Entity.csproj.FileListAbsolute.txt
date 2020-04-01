@@ -1,0 +1,5 @@
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\Entity\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\Entity\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\Entity\obj\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\Entity\obj\Debug\Entity.pdb

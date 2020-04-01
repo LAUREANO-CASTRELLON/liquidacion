@@ -1,0 +1,13 @@
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\obj\Debug\LiquidacionUI.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\LiquidacionUI.exe.config
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\LiquidacionUI.exe
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\LiquidacionUI.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\BLL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\Entity.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\DAL.dll
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\BLL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\Entity.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\bin\Debug\DAL.pdb
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\obj\Debug\LiquidacionUI.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\obj\Debug\LiquidacionUI.exe
+C:\Users\jesus\OneDrive\Escritorio\Liquidacion-master\LiquidacionUI\obj\Debug\LiquidacionUI.pdb
